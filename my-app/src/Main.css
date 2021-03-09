@@ -1,0 +1,30 @@
+.bg {
+  background-color: rgb(192, 61, 61);
+  border-radius: 28%;
+}
+
+.size {
+  height: 40px;
+  width: 7%;
+}
+
+.nav-item:hover {
+  background-color: rgb(54, 58, 117);
+  border-radius: 15%;
+}
+.active {
+  background-color: rgb(14, 14, 65);
+  border-radius: 15%;
+  padding: 12px;
+  width: 100%;
+  color: brown;
+}
+.nav-link {
+  border-radius: 15%;
+  padding: 12px;
+  width: 100%;
+  color: white;
+}
+body {
+  background-color: black;
+}
